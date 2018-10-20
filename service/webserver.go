@@ -5,12 +5,7 @@ import (
 	"net/http"
 )
 
-package service
 
-import (
-"net/http"
-"log"
-)
 
 func StartWebServer(port string) {
 
